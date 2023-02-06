@@ -1,59 +1,53 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "PratikAghorCV"
+excerpt: " "
+toc: true
 author_profile: true
-redirect_from:
-  - /resume
 ---
+## Education:
+* **University of New Hampshire (UNH)**, Durham, USA 
+    - PhD in Applied Mathematics (2018 - 2023 (expected))
+    - CGPA: 3.96/4.00
+    - **Advisor: [Prof John F Gibson](https://ceps.unh.edu/person/john-gibson)** 
+* **Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)**, Bengaluru, India
+    - MS in Engineering Mechanics (2015 - 2018)
+    - CGPA: 6.90/8.00
+    - **Advisor: [Prof Meheboob Alam](https://www.jncasr.ac.in/faculty/meheboob/)**
+* **Birla Institute of Technology and Science (BITS) Pilani**, Pilani, India
+    - BE (Hons) in Mechanical Engineering
+    - CGPA: 8.25/10.00
 
-{% include base_path %}
+## Publications:
+1. **P. Aghor**, M. Atif, "Radially heated Taylor-Couette flow", to be submitted to
+the *Physical Review Fluids*, vol. ??, 2023. 
+2. R. Mushtaq, **P. Aghor**, "Thermally stratified porous plane Couette flow", to be submitted to
+the *Physical Review Fluids*, vol. ??, 2023.
+3. **P. Aghor**, J. F. Gibson, "Edge states of plane Poiseuille flow", to be submitted to
+the *Physical Review Fluids*, vol. ??, 2023. 
+4. **P. Aghor**, J. F. Gibson, “Invariant symmetric subspaces of plane Poiseuille flow”, to be submitted to
+the *Journal of Fluid Mechanics*, vol. ??, 2023. 
+5. **P. Aghor**, M. Alam, [“Nonlinear axisymmetric Taylor-Couette flow in a dilute gas: Multiroll
+transition and the role of compressibility”](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/nonlinear-axisymmetric-taylorcouette-flow-in-a-dilute-gas-multiroll-transition-and-the-role-of-compressibility/B528D542F58FC12D8F666BA1207249FA), *Journal of Fluid Mechanics*, vol. 909, 2021.
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Teaching:
+* **Teaching assistant** at UNH (2018-2019, 2021)
+    - Linearity sequence (two-semester sequence covering ODE’s, linear algebra, phase plane analysis), Multidimensional Calculus
+* **Teaching assistant** at BITS Pilani (2015)
+    - Finite Element Method (Assisted in a graduate level course while still an undergraduate)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Some lecture notes that I jotted down and some that were used as tutorials in summer schools can be found [here](https://github.com/PratikAghor/lec_notes). 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Scholarships and Awards:
+* **Dissertation Year Fellowship, UNH Graduate School Award**, 2022-2023
+* **Departmental Nominee, Graduate School TA Teaching Award**, 2021-2022, 2022-2023
+* **Research Assistant**, 2019-2021
+* **R. Narasimha Award for the Best MS Thesis in Engineering Mechanics**, 2017-2018
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Achievements and miscellaneous:
+* All India Rank 7 in GATE 2015 Engineering Mechanics. 
+* Usherd in the "age of stars, a thousand year voyage under the wisdom of the Moon" in Elden Ring. 
+* I have a [blog](https://sublimeplace.wordpress.com/) where write about my non-academic interests.
+
+## Full CV:
+[PratikAghorCV](http://pratikaghor.github.io/_pages/cv/PratikAghorCV.pdf)
