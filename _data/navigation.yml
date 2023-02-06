@@ -1,22 +1,22 @@
 # main links links
 main:
+  - title: "Home"
+    url: https://aghor.github.io/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /research/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+  - title: "Posts"
     url: /year-archive/
-    
+
+  - title: "Blog"
+    url: https://sublimeplace.wordpress.com/
+
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
