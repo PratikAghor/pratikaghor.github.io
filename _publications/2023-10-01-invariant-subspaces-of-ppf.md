@@ -5,8 +5,7 @@ permalink: /publication/2023-10-01-invariant-subspaces-of-ppf
 excerpt: 'We study how symmetries affect dynamics and how they can be exploited to simplify numerical calculations.'
 date: 2023-10-01
 venue: 'Journal of Fluid Mechanics'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+mathjax: true
 ---
 It is important to study the symmetries of a system because they influence dynamics and determine kinds of allowable solutions. We consider plane Poiseuille flow (PPF) driven by a constant bulk velocity constraint. We classify relevent symmetric subspaces of PPF and also compute traveling waves in a few of them, using the knowledge about symmetries to simplify numerical computations. I presented a poster based on this work at the Boulder Summer School 2022 - [bss_poster](http://pratikaghor.github.io/_pages/posters/aghor_symmetry_bss.pdf). Prof. Gibson and I are currently working on an article based on this work that will be submitted to the Journal of Fluid Mechanics (JFM). 
 
