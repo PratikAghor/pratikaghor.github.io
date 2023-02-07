@@ -12,8 +12,8 @@ main:
 #  - title: "Posts"
 #    url: /year-archive/
 
-  - title: "Blog"
-    url: https://sublimeplace.wordpress.com/
+#  - title: "Blog"
+#    url: https://sublimeplace.wordpress.com/
 
   - title: "CV"
     url: /cv/
