@@ -1,7 +1,7 @@
 ---
-title: "Radially heated Taylor-Couette flow"
+title: "Sheared porous media convection"
 collection: publications
-permalink: /publication/2023-10-04-sheared-porous-media-convection
+permalink: /publication/2023-10-04-edge-ppf
 excerpt: 'We perform linear stability analysis of sheared porous media convection.'
 date: 2023-10-04
 venue:'(To be submitted to) Physical Review Fluids'
