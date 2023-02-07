@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pratik Aghor"
-  avatar           : "/assets/images/aghorp.png"
+  avatar           : "https://avatars.githubusercontent.com/u/32088888?s=96&v=4"
   bio              : "PhD Candidate in Applied Math at University of New Hampshire." # "Your biography for the left-hand sidebar"
   location         : "Durham, NH, USA"
   employer         :
