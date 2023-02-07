@@ -3,7 +3,7 @@ title: "Invariant symmetric subspcaces of plane Poiseuille flow"
 collection: publications
 permalink: /publication/2023-10-01-invariant-subspaces-of-ppf
 excerpt: 'We study how symmetries affect dynamics and how they can be exploited to simplify numerical calculations.'
-date: (to be submitted) 2023-10-01
+date: 2023-10-01
 venue:'(To be submitted to) Journal of Fluid Mechanics'
 mathjax: true
 ---
