@@ -81,7 +81,12 @@ for row, item in publications.iterrows():
     
     md += "\ndate: " + str(item.pub_date) 
     
-    md += "\nvenue: '" + html_escape(item.venue) + "'"
+    # edited by aghor for to be submitted papers
+    if len(str(item.excerpt)) > 5:
+        md += "\nvenue: '" + html_escape(item.venue) + "'"
+
+    if len(str(item.excerpt)) > 5:
+        md += "\nfuturevenue: '" + html_escape(item.futurevenue) + "'"
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
