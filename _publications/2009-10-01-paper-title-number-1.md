@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Nonlinear axisymmetric Taylor–Couette flow in a dilute gas: multiroll transition and the role of compressibility"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/aghor2021nonliner
+excerpt: 'Taylor–Couette flow (TCF) refers to the annular flow between two concentric, differentially rotating cylinders. After [Taylor's seminal 1923 article](https://royalsocietypublishing.org/doi/abs/10.1098/rsta.1923.0008), the topic remains an active research area even today after a centrury due to its experimental simplicity and a wide range of applications. In this work, the asymmetric 2-roll modes (called the single-roll or ‘anomalous’ modes), that break the midplane  $$Z_2$$-symmetry, are uncovered at $$\Gamma \leq O(1)$$, where $$\Gamma = h/ \delta $$ is the aspect ratio with $$h$$ being the height of the cylinders and $$\delta$$ being the gap width. The phase boundaries of both symmetric and asymmetric rolls and the coexisting regions of different number of rolls are identified in the $$(\Gamma , Re )$$-plane, where $$Re$$ is the inner Reynolds number. We were able to show that the ‘$$1 \leftrightarrow 2$$’-roll transition in small aspect ratio cylinders is subcritical in compressible TCF in contrast to the supercritical nature of bifurcation in its incompressible counterpart. This work was published in the [Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/nonlinear-axisymmetric-taylorcouette-flow-in-a-dilute-gas-multiroll-transition-and-the-role-of-compressibility/B528D542F58FC12D8F666BA1207249FA).'
+date: 2021-02
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://pratikaghor.github.io/files/nonlinear-axisymmetric-taylorcouette-flow-in-a-dilute-gas-multiroll-transition-and-the-role-of-compressibility.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+mathjax: true
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://pratikaghor.github.io/files/nonlinear-axisymmetric-taylorcouette-flow-in-a-dilute-gas-multiroll-transition-and-the-role-of-compressibility.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
