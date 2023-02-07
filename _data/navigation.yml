@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: https://aghor.github.io/
+    url: https://pratikaghor.github.io/
 
   - title: "Publications"
     url: /publications/
@@ -9,8 +9,8 @@ main:
 #  - title: "Research"
 #    url: /research/    
 
-  - title: "Posts"
-    url: /year-archive/
+#  - title: "Posts"
+#    url: /year-archive/
 
   - title: "Blog"
     url: https://sublimeplace.wordpress.com/
