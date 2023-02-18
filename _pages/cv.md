@@ -22,7 +22,7 @@ author_profile: true
 1. **P. Aghor**, M. Atif, "Radially heated Taylor-Couette flow", to be submitted to
 the *Physical Review Fluids*, vol. ??, 2023. 
 2. R. Mushtaq, **P. Aghor**, "Thermally stratified porous plane Couette flow", to be submitted to
-the *Physical Review Fluids*, vol. ??, 2023.
+the *Journal of Fluid Mechanics*, vol. ??, 2023.
 3. **P. Aghor**, J. F. Gibson, "Edge states of plane Poiseuille flow", to be submitted to
 the *Physical Review Fluids*, vol. ??, 2023. 
 4. **P. Aghor**, J. F. Gibson, “Invariant symmetric subspaces of plane Poiseuille flow”, to be submitted to
