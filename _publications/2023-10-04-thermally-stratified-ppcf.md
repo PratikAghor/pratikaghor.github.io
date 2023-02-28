@@ -1,5 +1,5 @@
 ---
-title: "Thermally stratified porous plane Couette flow"
+title: "Porous plane Couette flow with unstable thermal stratification"
 collection: publications
 permalink: /publication/2023-10-04-thermally-stratified-ppcf
 excerpt: 'We perform linear stability analysis of thermally stratified porous plane Couette flow.'

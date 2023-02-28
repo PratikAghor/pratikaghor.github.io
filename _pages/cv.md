@@ -20,8 +20,7 @@ author_profile: true
 
 ## Publications:
 1. **P. Aghor**, M. Atif, "Radially heated Taylor-Couette flow", *under prep.*, 2023. 
-2. R. Mushtaq, **P. Aghor**, "Thermally stratified porous plane Couette flow", to be submitted to
-the *under prep.*, 2023.
+2. R. Mushtaq, **P. Aghor**, "Porous plane Couette flow with unstable thermal stratification", *under prep.*, 2023.
 3. **P. Aghor**, J. F. Gibson, "Edge states of plane Poiseuille flow", *under prep.*, 2023.
 4. **P. Aghor**, J. F. Gibson, “Invariant symmetric subspaces of plane Poiseuille flow”, *under prep.*, 2023.
 5. **P. Aghor**, M. Alam, [“Nonlinear axisymmetric Taylor-Couette flow in a dilute gas: Multiroll
