@@ -35,6 +35,7 @@ transition and the role of compressibility”](https://www.cambridge.org/core/jo
 * Some lecture notes that I jotted down and some that were used as tutorials in summer schools can be found [here](https://github.com/PratikAghor/lec_notes). 
 
 ## Scholarships and Awards:
+* **Department of Mathematics and Statistics Teaching Assistant Award, UNH**, 2022-2023
 * **Dissertation Year Fellowship, UNH Graduate School Award**, 2022-2023
 * **Departmental Nominee, Graduate School TA Teaching Award**, 2021-2022, 2022-2023
 * **Research Assistant**, 2019-2021
@@ -42,7 +43,7 @@ transition and the role of compressibility”](https://www.cambridge.org/core/jo
 
 ## Achievements and miscellaneous:
 * All India Rank 7 in GATE 2015 Engineering Mechanics. 
-* Usherd in the "age of stars, a thousand year voyage under the wisdom of the Moon" in Elden Ring. 
+* Usherd the "age of stars, a thousand year voyage under the wisdom of the Moon" in Elden Ring. 
 * I have a [blog](https://sublimeplace.wordpress.com/) where write about my non-academic interests.
 
 ## Full CV:
