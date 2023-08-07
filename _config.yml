@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pratik Aghor's Academic Website"
 title_separator          : "-"
 name                     : &name "Pratik Aghor"
-description              : &description "PhD Candidate in applied mathematics"
+description              : &description "PhD in applied mathematics"
 url                      : "https://pratikaghor.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PratikAghor/pratikaghor.github.io "
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pratik Aghor"
   avatar           : "https://avatars.githubusercontent.com/u/32088888?s=96&v=4"
-  bio              : "PhD Candidate in Applied Math at University of New Hampshire." # "Your biography for the left-hand sidebar"
+  bio              : "PhD in applied math." # "Your biography for the left-hand sidebar"
   location         : "Durham, NH, USA"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

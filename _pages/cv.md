@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Education:
 * **University of New Hampshire (UNH)**, Durham, USA 
-    - PhD in Applied Mathematics (2018 - 2023 (expected))
+    - PhD in Applied Mathematics (2018 - 2023)
     - CGPA: 3.96/4.00
     - **Advisor: [Prof John F Gibson](https://ceps.unh.edu/person/john-gibson)** 
 * **Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)**, Bengaluru, India
