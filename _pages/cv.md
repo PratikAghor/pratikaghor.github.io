@@ -19,7 +19,7 @@ author_profile: true
     - CGPA: 8.25/10.00
 
 ## Publications:
-1. **P. Aghor**, M. Atif, "Radially heated Taylor-Couette flow", *under prep.*, 2023. 
+1. **P. Aghor**, M. Atif, "Effect of outer cylinder rotation on the radially heated Taylor-Couette flow", *Phys. Fluids*, 2023. 
 2. R. Mushtaq, **P. Aghor**, "Porous plane Couette flow with unstable thermal stratification", *under prep.*, 2023.
 3. **P. Aghor**, J. F. Gibson, "Edge states of plane Poiseuille flow", *under prep.*, 2023.
 4. **P. Aghor**, J. F. Gibson, “Invariant symmetric subspaces of plane Poiseuille flow”, *under prep.*, 2023.
