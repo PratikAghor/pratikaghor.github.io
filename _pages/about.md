@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I am currently an incoming postoctoral fellow in the [School of Earth and Atmospheric Sciences at Georgia Tech](https://eas.gatech.edu/) working with [Prof. Annalisa Bracco](https://eas.gatech.edu/people/bracco-dr-annalisa). 
+
 I recently completed PhD in applied mathematics at the University of New Hampshire, working with [Prof John F Gibson](https://ceps.unh.edu/person/john-gibson) on transition to turbulence in shear flows. Prior to this, I was an MS student at the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bengaluru, India. I worked with [Prof Alam](https://www.jncasr.ac.in/faculty/meheboob/) at JNCASR on pattern formation in compressible Taylor-Couette flow. I obtained a BE(Hons.) in mechanical engineering from BITS Pilani, India.
 
-An overarching theme of my research so far is pattern formation and nonlinear dynamics of rotating, stratified and/or sheared flows. I am also interested in scientific computation, bifurcation theory and symmetry breaking. In future, I would like to explore applications of these ideas in geophysical, astrophysical and/or biological contexts.
+An overarching theme of my research so far is pattern formation and nonlinear dynamics of rotating, stratified and/or sheared flows. I am also interested in scientific computation, bifurcation theory and symmetry breaking. In future, I would like to explore applications of these ideas in geophysical, astrophysical and/or biological contexts. 
+
+
