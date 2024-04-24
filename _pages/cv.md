@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "PratikAghorCV"
+title: "Pratik Aghor CV"
 excerpt: " "
 toc: true
 author_profile: true
@@ -17,8 +17,9 @@ author_profile: true
 
 ## Publications:
 1. **P. Aghor**, J. F. Gibson, “Invariant symmetric subspaces of plane Poiseuille flow”, *under prep.*, 2024.
-2. **P. Aghor**, M. Atif, ["Effect of outer cylinder rotation on the radially heated Taylor-Couette flow"](https://pubs.aip.org/aip/pof/article-abstract/35/9/094108/2909455/Effect-of-outer-cylinder-rotation-on-the-radially), *Phys. Fluids*, 2023. 
-3. **P. Aghor**, M. Alam, [“Nonlinear axisymmetric Taylor-Couette flow in a dilute gas: Multiroll
+2. **P. Aghor**, M. McKinley, A. Bracco, “Internal waves around New England seamounts”, *under prep.*, 2024.
+3. **P. Aghor**, M. Atif, ["Effect of outer cylinder rotation on the radially heated Taylor-Couette flow"](https://pubs.aip.org/aip/pof/article-abstract/35/9/094108/2909455/Effect-of-outer-cylinder-rotation-on-the-radially), *Phys. Fluids*, 2023. 
+4. **P. Aghor**, M. Alam, [“Nonlinear axisymmetric Taylor-Couette flow in a dilute gas: Multiroll
 transition and the role of compressibility”](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/nonlinear-axisymmetric-taylorcouette-flow-in-a-dilute-gas-multiroll-transition-and-the-role-of-compressibility/B528D542F58FC12D8F666BA1207249FA), *Journal of Fluid Mechanics*, vol. 909, 2021.
 
 ## Teaching:
@@ -33,7 +34,6 @@ transition and the role of compressibility”](https://www.cambridge.org/core/jo
 * **Department of Mathematics and Statistics Teaching Assistant Award, UNH**, 2022-2023
 * **Dissertation Year Fellowship, UNH Graduate School Award**, 2022-2023
 * **Departmental Nominee, Graduate School TA Teaching Award**, 2021-2022, 2022-2023
-* **Research Assistant**, 2019-2021
 * **R. Narasimha Award for the Best MS Thesis in Engineering Mechanics**, 2017-2018
 
 ## Achievements and miscellaneous:
