@@ -4,7 +4,6 @@ collection: submitted
 permalink: /publication/2024-09-17-symmetry-groups-and-invariant-solutions-of-ppf
 excerpt: 'We study how symmetries affect dynamics and how they can be exploited to simplify numerical calculations.'
 date: 2024-09-17
-venue: '(Under review) Journal of Fluid Mechanics'
 mathjax: true
 ---
 
