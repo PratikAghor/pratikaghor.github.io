@@ -1,3 +1,11 @@
+# Submitted
+
+{% include base_path %}
+
+{% for post in site.submitted reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ---
 layout: archive
 title: "Publications"
@@ -16,10 +24,4 @@ author_profile: true
 {% endfor %}
 
 
-# Submitted
 
-{% include base_path %}
-
-{% for post in site.submitted reversed %}
-  {% include archive-single.html %}
-{% endfor %}
