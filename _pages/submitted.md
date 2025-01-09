@@ -1,7 +1,6 @@
 ---
-layout: archive
-title: "Submitted"
 permalink: /submitted/
+title: "Submitted"
 author_profile: true
 ---
 
