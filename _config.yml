@@ -183,7 +183,7 @@ collections:
     permalink: /:collection/:path/
   submitted:
     output: true
-    permalink: /publications/:path/
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
