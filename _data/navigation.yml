@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "Submitted"
-    url: /submitted/
+#  - title: "Submitted"
+#    url: /submitted/
 #
 #  - title: "Research"
 #    url: /research/    

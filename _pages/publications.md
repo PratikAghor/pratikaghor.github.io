@@ -16,12 +16,7 @@ author_profile: true
 {% endfor %}
 
 
----
-layout: archive
-permalink: /publications/
-title: "Submitted"
-author_profile: true
----
+# Submitted
 
 {% include base_path %}
 
