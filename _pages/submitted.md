@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.submissions reversed %}
+{% for post in site.submitted reversed %}
   {% include archive-single.html %}
 {% endfor %}
