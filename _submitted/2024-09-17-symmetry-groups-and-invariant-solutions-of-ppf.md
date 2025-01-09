@@ -2,6 +2,7 @@
 title: "Symmetry groups and invariant solutions of plane Poiseuille flow"
 collection: submitted
 permalink: /submitted/2024-09-17-symmetry-groups-and-invariant-solutions-of-ppf
+excerpt: 'We explore connections between symmetries and dynamics in fluid flows'
 date: 2024-09-17
 mathjax: true
 ---
