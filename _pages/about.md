@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 classes: wide
 header:
-  overlay_image: assets/images/headers/seamount_2019_vort_vlevel_-4500_nt_3100.jpg
+  overlay_image: assets/images/headers/seamount_2019_vort_vlevel_-4500_nt_3100.png
   overlay_filter: 0.2
 ---
 
