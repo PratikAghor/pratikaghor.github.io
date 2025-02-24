@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "Aghor"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+layout: single
 classes: wide
 header:
   overlay_image: assets/images/headers/the_great_wave_by_hokusai_19th_century.jpg
