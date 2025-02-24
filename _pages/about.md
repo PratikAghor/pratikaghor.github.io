@@ -8,8 +8,7 @@ redirect_from:
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/images/headers/the_great_wave_by_hokusai_19th_century.jpg
-  overlay_filter: 0.2
+  image: /assets/images/headers/the_great_wave_by_hokusai_19th_century.jpg
 ---
 
 I am currently a postoctoral fellow in the [School of Earth and Atmospheric Sciences at Georgia Tech](https://eas.gatech.edu/) working with [Prof. Annalisa Bracco](https://eas.gatech.edu/people/bracco-dr-annalisa). 
