@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Aghor"
+title: "Pratik P. Aghor"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 layout: single
 classes: wide
 header:
-  image: /assets/images/headers/the_great_wave_by_hokusai_19th_century.jpg
+  overlay_image: /assets/images/headers/the_great_wave_by_hokusai_19th_century.jpg
+  overlay_filter: 0.2
 ---
 
 I am currently a postoctoral fellow in the [School of Earth and Atmospheric Sciences at Georgia Tech](https://eas.gatech.edu/) working with [Prof. Annalisa Bracco](https://eas.gatech.edu/people/bracco-dr-annalisa). 
