@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: home
 title: "Aghor"
 author_profile: true
 redirect_from: 
