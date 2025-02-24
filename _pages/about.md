@@ -8,7 +8,7 @@ redirect_from:
 layout: single
 classes: wide
 header:
-  overlay_image: assets/images/headers/the_great_wave_by_hokusai_19th_century.jpg
+  overlay_image: /assets/images/headers/the_great_wave_by_hokusai_19th_century.jpg
   overlay_filter: 0.2
 ---
 
