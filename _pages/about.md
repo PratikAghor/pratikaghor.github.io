@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+classes: wide
 header:
-  overlay_image: assets/images/headers/seamount_2019_vort_vlevel_-4500_nt_3100.eps
+  overlay_image: assets/images/headers/seamount_2019_vort_vlevel_-4500_nt_3100.jpg
   overlay_filter: 0.2
 ---
 
@@ -17,5 +17,5 @@ I completed PhD in applied mathematics at the University of New Hampshire, worki
 
 An overarching theme of my research so far is pattern formation and nonlinear dynamics of rotating, stratified and/or sheared flows. I am also interested in scientific computation, bifurcation theory and symmetry breaking. In near future, I would like to explore these ideas in geophysical, astrophysical and/or biological contexts.
 
-Apart from research, I am interested in ancient cultures and martial arts. I play Tabla and a bit of Ukulele (only occasionally nowadays). I try to maintain a [blog](https://sublimeplace.wordpress.com/) where I write about things, predominantly non-academic in nature, that I find intriguing.  
+Apart from research, I am interested in ancient cultures and martial arts. I play Tabla and a bit of Ukulele (only occasionally nowadays). I try to maintain a [blog](https://sublimeplace.wordpress.com/) where I write about things, predominantly non-academic in nature, that I find intriguing.
 
