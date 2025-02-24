@@ -6,6 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: assets/images/headers/seamount_2019_vort_vlevel_-4500_nt_3100.eps
+  overlay_filter: 0.2
 ---
 
 I am currently a postoctoral fellow in the [School of Earth and Atmospheric Sciences at Georgia Tech](https://eas.gatech.edu/) working with [Prof. Annalisa Bracco](https://eas.gatech.edu/people/bracco-dr-annalisa). 
