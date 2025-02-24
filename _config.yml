@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pratik Aghor's Academic Website"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Pratik Aghor"
 description              : &description "PhD in applied mathematics"
