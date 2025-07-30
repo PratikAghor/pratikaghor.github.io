@@ -6,7 +6,7 @@ excerpt: 'We investigate the role of bottom topography when strong ocean current
 date: 2025-01-08
 mathjax: true
 ---
-ESS Open Archive link: [here](https://essopenarchive.org/doi/full/10.22541/essoar.173758245.52913306)
+ESS Open Archive link: [here](doi.org/10.22541/essoar.175285275.52840024/v1)
 
 #### Abstract:
 This work investigates through a modeling exercise the interaction of a strong, varying current with a seamount, focusing on the North Atlantic Current (NAC) and Atlantis II, one of the New England Seamounts. Two simulations are considered, one with realistic bathymetry (NESM run) and a second with a single Gaussian seamount of comparable width and height of the Atlantis II seamount (SEAMOUNT run). The idealized SEAMOUNT simulation captures a broad range of physical phenomena modeled by the NESM run near the Atlantis II seamount. By quantifying the energetics near the bottom, we show that a mixed barotropic-baroclinic mechanism is responsible for topographic eddy generation. 
