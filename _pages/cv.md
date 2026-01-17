@@ -39,7 +39,6 @@ transition and the role of compressibility”](https://www.cambridge.org/core/jo
 ## Achievements and miscellaneous:
 * All India Rank 7 in GATE 2015 Engineering Mechanics. 
 * Usherd the "age of stars, a thousand year voyage under the wisdom of the Moon" in Elden Ring. 
-* I have a [blog](https://sublimeplace.wordpress.com/) where write about my non-academic interests.
 
 ## Full CV:
 [PratikAghorCV](http://pratikaghor.github.io/_pages/cv/PratikAghorCV.pdf)
