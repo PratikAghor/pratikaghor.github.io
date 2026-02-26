@@ -16,7 +16,7 @@ author_profile: true
     - BE (Hons) in Mechanical Engineering
 
 ## Publications:
-* **P. P. Aghor**, M. McKinley, A. Bracco, “Interaction of Ocean Currents and Seamounts: Role of Bottom Topography Around Atlantis II”, *under review*, 2026.
+* **P. P. Aghor**, M. McKinley, A. Bracco, “Interaction of Ocean Currents and Seamounts: Role of Bottom Topography Around Atlantis II”, accepted, JGR:Oceans, 2026.
 * **P. P. Aghor**, A. Bracco, K.G. Sabra, "Influence of Ocean Model Resolution on Acoustic Propagation Near a Seamount in the Presence of Internal Waves", *under review*, 2026.
 * **P. P. Aghor**, J. F. Gibson, [“Symmetry groups and invariant solutions of plane Poiseuille flow”](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/symmetry-groups-and-invariant-solutions-of-plane-poiseuille-flow/2DC9DD49ABA89BC8D1688F8468752D2D), *Journal of Fluid Mechanics*, 2025.
 * **P. P. Aghor**, M. Atif, ["Effect of outer cylinder rotation on the radially heated Taylor-Couette flow"](https://pubs.aip.org/aip/pof/article-abstract/35/9/094108/2909455/Effect-of-outer-cylinder-rotation-on-the-radially), *Phys. Fluids*, 2023. 
